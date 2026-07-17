@@ -8,9 +8,23 @@ It is built for undergraduate marketing and advertising courses, structured arou
 
 ---
 
+## Watch first
+
+Two short videos, depending on why you're here.
+
+### 🎬 [Create a Snapchat AR Lens with EasyLens](https://www.loom.com/share/123802666049414c8ac29659c8a7506b) *(~2 min)*
+
+**Start here if you want to see what students actually do.** A walkthrough of building an AR Lens from a single written prompt in EasyLens — no install, no account, no code. It starts from the filters students already use, types a prompt, and shows the result taking shape in the preview panel. Useful as a preview for yourself, or projected in class as the hook before Lesson 3.
+
+### 🛠️ [Introducing AR Curriculum for EasyLens Simulations](https://www.loom.com/share/6cd8ae97933640fbb3ac48385ee323a8) *(~3 min)*
+
+**Start here if you're setting the module up in your own LMS.** A tour of this repository and a demonstration of the downloadable SCORM package on the Releases page — downloading the zip, and what the interactive EasyLens simulation looks like once it's imported. Tested in Canvas.
+
+---
+
 ## What's in this repository
 
-Each deliverable is provided in **two formats**:
+Each written deliverable is provided in **two formats**:
 
 | Document | Format | How to open |
 |---|---|---|
@@ -21,6 +35,10 @@ Each deliverable is provided in **two formats**:
 
 - **PDF** — GitHub previews PDFs, so you can click a `.pdf` file and read the whole thing in your browser without downloading anything. Best for a quick look or for printing.
 - **DOCX** — GitHub **cannot** preview Word files. Click the `.docx` file and choose **Download** (or **Download raw file**) to open it in Word, Google Docs, or another editor. Use the DOCX version if you want to **adapt the materials** for your own class.
+
+### Interactive simulation (SCORM)
+
+An interactive **Getting Started with EasyLens** simulation is available as a SCORM package on the **[Releases](../../releases)** page. Download the zip and import it into your LMS as you would any SCORM module — it has been tested in Canvas. The [setup video above](https://www.loom.com/share/6cd8ae97933640fbb3ac48385ee323a8) walks through the whole process.
 
 ---
 
@@ -33,11 +51,11 @@ Each deliverable is provided in **two formats**:
    - **Add a marketing/career layer (~1 session):** the Lesson 6 organic‑vs‑paid extension + Snap Focus.
    - **The full unit (7 sessions):** Lessons 1–7, including the Lens Studio control path and the capstone pitch.
 3. **Hand students the Workbook.** It's the fill‑in companion — briefs, design decisions, reflections, and end‑of‑lesson knowledge checks. (Answer keys and teaching notes live in the Teacher's Guide, not the Workbook.)
-4. **Use the step‑by‑step tutorials.** Every build walkthrough (EasyLens, Lens Studio, and Publish) lives on a linked Scribe tutorial hub referenced inside both documents — share it, project it, or assign it on its own.
+4. **Use the step‑by‑step tutorials.** Every build walkthrough (EasyLens, Lens Studio, and Publish) lives on a linked Scribe tutorial hub referenced inside both documents — share it, project it, or assign it on its own. The [EasyLens video](https://www.loom.com/share/123802666049414c8ac29659c8a7506b) works well as the opening hook before students start Lesson 3.
 
 No Snapchat app or account is needed to begin; the early lessons run in any web browser.
 
-> **Heads‑up:** Snapchat's tools (EasyLens, Lens Studio, and the publishing and analytics screens) change frequently. Confirm the current screens before class — the teaching steps stay the same even when on‑screen wording shifts.
+> **Heads‑up:** Snapchat's tools (EasyLens, Lens Studio, and the publishing and analytics screens) change frequently. Confirm the current screens before class — the teaching steps stay the same even when on‑screen wording shifts. The same applies to the videos above.
 
 ---
 
@@ -52,8 +70,8 @@ This is an evolving, openly licensed project, and I'd love to hear from anyone w
 
 ## Credits
 
-Created by **Tasha Penwell** — Curriculum Writer &amp; Developer
-Founder, Bytes and Bits · Founder, Pretty Nerdy Digital Marketing (AR &amp; digital‑marketing studio)
+Created by **Tasha Penwell** — Curriculum Writer & Developer
+Founder, Bytes and Bits · Founder, Pretty Nerdy Digital Marketing (AR & digital‑marketing studio)
 Assistant Professor, Ohio University *(affiliation for identification only; created independently of the university, outside university duties and resources)*
 
 © 2026 Tasha Penwell · Bytes and Bits · Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
